@@ -7,4 +7,5 @@ Amarillo
 Rojo
 Naranja
 Añil
+Iñigo
 Unicornio
