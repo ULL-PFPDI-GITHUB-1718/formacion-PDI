@@ -1,0 +1,6 @@
+En este primer ejercicio hay que crear un fichero de texto que contenga todos los colores del arcoiris:
+Violeta
+Azul
+Verde
+Amarillo
+Rojo
