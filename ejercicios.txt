@@ -1,5 +1,6 @@
 En este primer ejercicio hay que crear un fichero de texto que contenga todos los colores del arcoiris:
 Además ha de contener un unicornio
+Ahora tiene un poni
 Violeta
 Azul
 Verde
@@ -8,3 +9,4 @@ Rojo
 Naranja
 Añil
 Unicornio
+Poni
